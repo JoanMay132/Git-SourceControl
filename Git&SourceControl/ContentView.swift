@@ -25,7 +25,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftul")
-            Button("Click Me"){
+            Button("Click Me Now"){
                 
             }
             .background(.red)
