@@ -6,7 +6,18 @@
 //
 
 import SwiftUI
+// How to stage, unstage, and stash code changes in Source Control
 
+// How to push and pull from a remote repository | Git & Source Control # 5
+
+/*
+ Clone = Copying the repo locally
+ Commit = Save ("Checkpoint") on our current branch
+ Stage = Prepare changes for a commit
+ Stash = Save changes for later
+ Push = Send local commits to remote repo
+ Pull = Fetch remote commits to local repo
+ */
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -21,6 +32,7 @@ struct ContentView: View {
             Button("Suscribe"){
                 
             }
+            Rectangle()
         }
         .padding()
     }
