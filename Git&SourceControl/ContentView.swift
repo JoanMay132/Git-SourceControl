@@ -29,7 +29,7 @@ struct ContentView: View {
                 
             }
             .background(.red)
-            Button("Suscribe now!"){
+            Button("Suscribe now"){
                 
             }
             Rectangle()
