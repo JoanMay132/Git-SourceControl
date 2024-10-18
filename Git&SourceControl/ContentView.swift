@@ -24,12 +24,12 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftul")
+            Text("Swiftul ")
             Button("Click Me Now"){
                 
             }
             .background(.red)
-            Button("Suscribe"){
+            Button("Suscribe now!"){
                 
             }
             Rectangle()
